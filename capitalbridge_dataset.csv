@@ -1,0 +1,301 @@
+location,industry,stage,years,employees,revenue,growth_rate,expenses,profitability,funding_history,funding_need,funding_type,purpose,audited,financial_review,financial_model,readiness,mna_interest,growth_strategy,cross_border,capital_challenge,ops_challenge,service_interest,budget,target
+Both,FinTech,Growth,1-3,51-200,0,10,50000,Loss,Both,1000000,Convertible,Acquisition,1,Annual,None,Low,No,Acquisition,1,Pitch,Hiring,Fundraising,100000,Maybe
+Other,FinTech,Expansion,<1,201-500,5000000,10,200000,Profitable,Debt,200000,Equity,Working Capital,1,Annual,None,Low,Active,Partnership,0,Structuring,Cashflow,Matching,100000,Maybe
+India,Manufacturing,Expansion,1-3,1-10,0,10,10000,Loss,Debt,1000000,Mezzanine,Working Capital,1,Monthly,Basic,High,No,Partnership,0,Regulation,Hiring,M&A,100000,Maybe
+Both,Real Estate,Early,<1,11-50,200000,10,200000,Break-even,Equity,15000000,Convertible,Working Capital,0,Quarterly,Detailed,Low,Active,Acquisition,1,Valuation,Costs,Matching,5000,Maybe
+Both,E-commerce,Growth,5-10,51-200,0,50,700000,Loss,None,15000000,Convertible,Market Entry,0,Quarterly,Detailed,High,Active,Organic,0,Regulation,Competition,M&A,300000,No
+Other,Healthcare,Expansion,5-10,11-50,5000000,0,200000,Break-even,None,15000000,Mezzanine,Acquisition,1,Quarterly,None,Low,Active,Acquisition,0,Regulation,Scaling,Restructuring,20000,No
+India,SaaS,Idea,10+,11-50,15000000,25,700000,Loss,Both,5000000,Debt,Tech,1,Monthly,None,Medium,Open,Partnership,1,Pitch,Scaling,Valuation,100000,Maybe
+India,E-commerce,Idea,1-3,51-200,0,80,700000,Break-even,None,50000,Mezzanine,Expansion,1,Quarterly,Basic,Low,Open,Partnership,1,Structuring,Competition,Restructuring,5000,No
+Both,Real Estate,Mature,10+,11-50,0,25,50000,Break-even,Debt,15000000,Debt,Market Entry,0,Monthly,None,High,Active,Acquisition,0,Access,Cashflow,M&A,5000,No
+UAE,SaaS,Growth,1-3,51-200,1000000,25,700000,High Burn,Debt,200000,Equity,Tech,1,Rare,Basic,Low,Active,Organic,1,Structuring,Cashflow,M&A,20000,Maybe
+Both,Manufacturing,Growth,10+,1-10,15000000,0,50000,Break-even,Equity,15000000,Equity,Acquisition,0,Rare,None,High,Open,Acquisition,1,Regulation,Hiring,M&A,100000,No
+Both,Manufacturing,Mature,3-5,51-200,200000,0,50000,High Burn,Equity,5000000,Mezzanine,Working Capital,1,Monthly,None,High,No,Acquisition,1,Structuring,Competition,Fundraising,5000,No
+Both,FinTech,Expansion,3-5,51-200,5000000,0,50000,Break-even,None,200000,Mezzanine,Acquisition,0,Annual,None,Medium,Active,Partnership,0,Pitch,Cashflow,Valuation,20000,No
+Both,Real Estate,Growth,3-5,201-500,200000,10,10000,Profitable,Both,5000000,Equity,Expansion,1,Rare,Detailed,Medium,No,Organic,0,Access,Competition,Restructuring,300000,Maybe
+Other,Healthcare,Idea,3-5,51-200,15000000,50,10000,Break-even,None,200000,Debt,Market Entry,0,Quarterly,Detailed,High,Open,Fundraising,0,Pitch,Costs,Restructuring,300000,No
+India,SaaS,Idea,<1,51-200,0,10,700000,Profitable,None,1000000,Equity,Market Entry,1,Monthly,Detailed,Low,Active,Organic,1,Access,Scaling,Matching,300000,Yes
+Other,E-commerce,Early,3-5,1-10,0,50,50000,Profitable,None,50000,Mezzanine,Expansion,0,Quarterly,None,High,No,Acquisition,0,Regulation,Scaling,M&A,100000,Yes
+Other,Real Estate,Growth,5-10,201-500,15000000,50,10000,Break-even,None,50000,Equity,Tech,0,Quarterly,Basic,High,No,Acquisition,1,Access,Scaling,M&A,20000,Maybe
+Other,Real Estate,Expansion,5-10,500+,0,25,50000,Profitable,Debt,5000000,Mezzanine,Tech,0,Annual,Basic,Low,No,Acquisition,0,Access,Competition,M&A,20000,Yes
+Both,Manufacturing,Mature,<1,1-10,0,25,200000,High Burn,Both,50000,Mezzanine,Market Entry,0,Quarterly,Basic,Low,Open,Organic,0,Access,Competition,Restructuring,5000,Maybe
+UAE,FinTech,Mature,3-5,1-10,0,50,200000,Loss,Debt,5000000,Equity,Market Entry,0,Annual,Basic,Low,Open,Partnership,1,Structuring,Hiring,Matching,5000,Yes
+India,FinTech,Expansion,3-5,500+,5000000,50,200000,Break-even,Both,5000000,Debt,Working Capital,0,Rare,Detailed,Low,No,Acquisition,0,Structuring,Scaling,Fundraising,5000,Yes
+UAE,SaaS,Early,3-5,51-200,5000000,10,700000,Profitable,Equity,5000000,Convertible,Tech,0,Monthly,Detailed,High,No,Acquisition,1,Regulation,Hiring,Valuation,20000,Yes
+Other,Manufacturing,Mature,10+,11-50,1000000,10,50000,Break-even,None,50000,Equity,Expansion,1,Quarterly,None,High,Open,Organic,0,Access,Scaling,Fundraising,5000,Maybe
+Other,Real Estate,Growth,1-3,201-500,200000,25,200000,High Burn,Debt,5000000,Convertible,Tech,1,Monthly,None,Medium,No,Fundraising,0,Valuation,Hiring,Restructuring,20000,Maybe
+UAE,Healthcare,Early,10+,11-50,15000000,0,10000,Break-even,Both,50000,Equity,Working Capital,1,Quarterly,Basic,High,No,Fundraising,1,Regulation,Hiring,M&A,20000,No
+UAE,Manufacturing,Growth,1-3,500+,15000000,50,200000,Break-even,Equity,5000000,Convertible,Market Entry,1,Monthly,Detailed,Low,Open,Partnership,1,Access,Costs,Valuation,300000,Maybe
+UAE,SaaS,Idea,3-5,1-10,15000000,10,200000,Profitable,Equity,15000000,Debt,Market Entry,1,Quarterly,Basic,Medium,No,Partnership,1,Access,Hiring,Restructuring,5000,Yes
+Other,SaaS,Early,3-5,1-10,1000000,25,200000,High Burn,None,5000000,Debt,Working Capital,0,Quarterly,None,Low,No,Acquisition,0,Structuring,Competition,Restructuring,300000,Yes
+Other,Manufacturing,Mature,10+,201-500,5000000,10,700000,Loss,Both,200000,Equity,Expansion,0,Quarterly,None,High,No,Organic,0,Regulation,Hiring,Restructuring,100000,Maybe
+India,SaaS,Early,10+,1-10,1000000,50,10000,Loss,Debt,5000000,Mezzanine,Market Entry,0,Quarterly,Basic,Medium,Open,Acquisition,0,Access,Scaling,Valuation,100000,Maybe
+India,Manufacturing,Early,1-3,1-10,15000000,50,50000,Profitable,None,1000000,Convertible,Acquisition,0,Quarterly,None,Low,No,Partnership,1,Access,Hiring,Valuation,100000,Maybe
+Other,E-commerce,Early,5-10,201-500,200000,80,10000,Break-even,Debt,5000000,Mezzanine,Market Entry,0,Quarterly,Basic,Medium,Open,Organic,1,Regulation,Cashflow,Matching,20000,No
+UAE,Manufacturing,Early,1-3,201-500,0,0,50000,Profitable,Equity,200000,Mezzanine,Acquisition,1,Quarterly,Detailed,Medium,Open,Organic,1,Valuation,Scaling,Matching,20000,Yes
+UAE,Manufacturing,Growth,10+,500+,5000000,80,700000,Profitable,Debt,200000,Mezzanine,Working Capital,1,Quarterly,Basic,High,Active,Partnership,0,Regulation,Cashflow,Fundraising,20000,No
+India,SaaS,Idea,10+,1-10,5000000,25,700000,Profitable,Debt,50000,Debt,Working Capital,1,Quarterly,Detailed,Low,Active,Fundraising,0,Regulation,Scaling,Valuation,5000,No
+Other,SaaS,Expansion,<1,1-10,1000000,10,700000,Break-even,None,15000000,Equity,Market Entry,1,Monthly,Detailed,Medium,No,Fundraising,1,Valuation,Competition,Valuation,300000,Yes
+India,FinTech,Early,10+,500+,5000000,25,700000,High Burn,Debt,5000000,Equity,Tech,0,Annual,None,Medium,Open,Organic,0,Regulation,Competition,Valuation,20000,Yes
+India,FinTech,Mature,<1,51-200,15000000,50,50000,Profitable,None,50000,Debt,Acquisition,0,Quarterly,None,Low,Active,Acquisition,1,Access,Competition,Matching,300000,Maybe
+Both,E-commerce,Early,5-10,51-200,15000000,80,200000,Break-even,Equity,15000000,Debt,Expansion,0,Annual,None,Medium,No,Fundraising,0,Regulation,Cashflow,Restructuring,300000,Maybe
+Both,FinTech,Mature,1-3,51-200,1000000,80,50000,High Burn,None,5000000,Equity,Market Entry,1,Quarterly,Basic,Medium,Active,Acquisition,0,Valuation,Costs,M&A,300000,No
+Both,Manufacturing,Growth,1-3,500+,15000000,80,10000,Profitable,None,1000000,Mezzanine,Expansion,0,Quarterly,Basic,Medium,Active,Fundraising,1,Pitch,Scaling,Matching,5000,Maybe
+UAE,SaaS,Mature,<1,1-10,200000,25,700000,Loss,Both,5000000,Convertible,Market Entry,1,Monthly,None,Low,Open,Fundraising,0,Regulation,Competition,Valuation,5000,Maybe
+Other,FinTech,Expansion,1-3,500+,1000000,50,700000,High Burn,Debt,200000,Convertible,Tech,0,Rare,Basic,Low,Open,Acquisition,0,Structuring,Scaling,Matching,100000,Yes
+Other,FinTech,Idea,10+,500+,200000,10,10000,Profitable,Equity,200000,Convertible,Tech,0,Rare,None,Low,Active,Partnership,1,Access,Cashflow,Fundraising,100000,Yes
+Other,E-commerce,Mature,3-5,51-200,0,10,50000,High Burn,None,1000000,Mezzanine,Tech,1,Monthly,Basic,Low,Active,Fundraising,1,Access,Costs,Valuation,300000,Maybe
+Other,Real Estate,Mature,<1,11-50,200000,25,200000,High Burn,Equity,50000,Equity,Tech,0,Annual,Detailed,High,Open,Fundraising,0,Structuring,Cashflow,Fundraising,100000,Yes
+Both,E-commerce,Idea,1-3,1-10,0,80,200000,High Burn,Both,15000000,Debt,Working Capital,0,Rare,Detailed,Medium,No,Acquisition,1,Structuring,Scaling,Valuation,300000,Maybe
+UAE,Manufacturing,Expansion,<1,51-200,0,0,10000,High Burn,Debt,5000000,Equity,Working Capital,1,Monthly,None,Low,Open,Partnership,0,Regulation,Costs,Matching,5000,Yes
+UAE,SaaS,Early,<1,11-50,200000,25,200000,High Burn,None,200000,Mezzanine,Acquisition,0,Monthly,Basic,Medium,Active,Fundraising,1,Structuring,Costs,Restructuring,5000,Yes
+Both,E-commerce,Mature,3-5,11-50,1000000,25,50000,High Burn,Debt,50000,Debt,Expansion,1,Rare,Basic,Medium,No,Fundraising,0,Pitch,Cashflow,M&A,5000,Yes
+UAE,FinTech,Idea,10+,201-500,15000000,50,50000,Profitable,Both,1000000,Mezzanine,Market Entry,0,Annual,Detailed,High,Active,Partnership,0,Valuation,Competition,Fundraising,20000,Yes
+Both,SaaS,Growth,<1,1-10,15000000,10,10000,Loss,Both,200000,Convertible,Market Entry,0,Monthly,Detailed,Low,No,Fundraising,1,Structuring,Scaling,Matching,300000,Maybe
+Other,SaaS,Idea,1-3,11-50,0,25,50000,Break-even,Equity,1000000,Convertible,Working Capital,0,Quarterly,None,Low,Active,Partnership,0,Structuring,Hiring,Restructuring,5000,No
+Both,FinTech,Growth,5-10,51-200,0,25,700000,High Burn,None,5000000,Mezzanine,Market Entry,0,Annual,Detailed,Medium,No,Partnership,0,Pitch,Hiring,Matching,300000,Yes
+Other,E-commerce,Expansion,<1,201-500,1000000,80,10000,Break-even,Equity,15000000,Debt,Working Capital,0,Annual,None,Low,No,Acquisition,1,Access,Cashflow,Fundraising,100000,Maybe
+Other,FinTech,Early,<1,1-10,5000000,80,50000,Profitable,Both,200000,Debt,Acquisition,0,Rare,Detailed,Medium,Active,Organic,1,Access,Scaling,M&A,100000,Maybe
+India,Real Estate,Idea,3-5,500+,200000,0,10000,High Burn,Debt,200000,Equity,Expansion,0,Rare,Detailed,Medium,No,Partnership,0,Regulation,Scaling,Matching,5000,Yes
+Both,SaaS,Mature,10+,51-200,0,50,200000,Loss,Equity,5000000,Convertible,Acquisition,0,Quarterly,Basic,High,Open,Acquisition,1,Pitch,Cashflow,Valuation,300000,No
+India,Healthcare,Expansion,5-10,11-50,15000000,0,50000,Break-even,Equity,50000,Equity,Tech,1,Monthly,Detailed,High,Active,Organic,1,Valuation,Scaling,Restructuring,5000,Yes
+Both,Healthcare,Idea,1-3,11-50,1000000,80,700000,High Burn,Debt,15000000,Equity,Tech,1,Rare,Detailed,High,Open,Fundraising,0,Valuation,Competition,Matching,100000,Maybe
+Both,Manufacturing,Mature,5-10,51-200,200000,10,50000,Profitable,Equity,200000,Mezzanine,Tech,0,Rare,None,Medium,Active,Organic,0,Pitch,Cashflow,Restructuring,5000,No
+India,FinTech,Idea,1-3,11-50,1000000,80,10000,Loss,Debt,15000000,Mezzanine,Acquisition,0,Annual,Detailed,Low,No,Partnership,1,Valuation,Competition,Valuation,300000,Maybe
+India,FinTech,Growth,10+,201-500,200000,50,10000,Break-even,None,200000,Equity,Market Entry,1,Rare,None,High,No,Partnership,1,Access,Scaling,M&A,100000,Yes
+Both,Manufacturing,Idea,1-3,1-10,200000,80,50000,Break-even,Debt,15000000,Convertible,Expansion,0,Rare,Detailed,Low,No,Partnership,1,Valuation,Cashflow,M&A,20000,No
+UAE,Manufacturing,Idea,3-5,201-500,0,50,700000,High Burn,None,1000000,Mezzanine,Tech,0,Rare,Detailed,High,Active,Partnership,0,Valuation,Scaling,Valuation,100000,Maybe
+Other,Manufacturing,Idea,3-5,11-50,1000000,50,700000,Loss,Debt,200000,Equity,Tech,1,Rare,None,High,Open,Partnership,0,Pitch,Cashflow,Restructuring,20000,Maybe
+India,SaaS,Expansion,3-5,500+,1000000,50,700000,Loss,Both,15000000,Equity,Tech,0,Annual,Basic,Medium,Open,Acquisition,0,Pitch,Scaling,Matching,5000,Maybe
+Other,Real Estate,Idea,3-5,1-10,15000000,50,10000,Loss,Both,50000,Equity,Expansion,0,Quarterly,None,High,Active,Partnership,0,Valuation,Competition,Valuation,5000,Yes
+UAE,FinTech,Mature,5-10,1-10,15000000,50,50000,Loss,None,1000000,Equity,Tech,1,Quarterly,None,High,Active,Acquisition,0,Structuring,Competition,Fundraising,300000,No
+UAE,SaaS,Growth,10+,51-200,0,10,200000,Profitable,None,1000000,Equity,Expansion,0,Monthly,None,Medium,Open,Fundraising,0,Pitch,Scaling,Restructuring,20000,Yes
+UAE,Manufacturing,Growth,1-3,51-200,0,0,10000,Loss,Both,50000,Equity,Tech,0,Rare,Basic,Low,Open,Partnership,0,Regulation,Cashflow,M&A,5000,Yes
+India,FinTech,Idea,1-3,500+,5000000,25,700000,Break-even,None,15000000,Mezzanine,Acquisition,1,Annual,Detailed,High,Open,Partnership,1,Regulation,Hiring,Valuation,20000,Yes
+UAE,SaaS,Expansion,3-5,1-10,15000000,0,50000,Break-even,Debt,5000000,Convertible,Acquisition,0,Monthly,None,Medium,Open,Organic,1,Access,Competition,M&A,5000,No
+India,Real Estate,Expansion,3-5,500+,200000,50,700000,Profitable,Debt,50000,Equity,Expansion,1,Monthly,None,High,Active,Fundraising,0,Valuation,Competition,Restructuring,100000,Yes
+UAE,SaaS,Mature,<1,51-200,1000000,10,200000,Break-even,Both,15000000,Debt,Acquisition,0,Quarterly,Basic,Medium,Active,Partnership,0,Structuring,Hiring,M&A,5000,Yes
+Other,Real Estate,Idea,10+,51-200,0,80,700000,Break-even,Equity,50000,Mezzanine,Expansion,0,Annual,None,Low,No,Partnership,0,Access,Scaling,Valuation,300000,Yes
+Other,Manufacturing,Growth,5-10,1-10,1000000,10,700000,Loss,Debt,50000,Mezzanine,Acquisition,1,Annual,Detailed,Low,Open,Fundraising,1,Valuation,Cashflow,Restructuring,100000,Yes
+Both,Real Estate,Expansion,1-3,201-500,1000000,50,200000,Break-even,None,200000,Equity,Acquisition,1,Annual,Basic,Medium,No,Acquisition,0,Pitch,Scaling,Fundraising,300000,Maybe
+Other,FinTech,Idea,<1,11-50,5000000,10,50000,Profitable,Equity,15000000,Mezzanine,Expansion,0,Quarterly,Detailed,Medium,Active,Partnership,1,Regulation,Costs,Valuation,100000,Yes
+Both,Manufacturing,Expansion,<1,51-200,15000000,10,10000,Loss,Equity,5000000,Equity,Market Entry,1,Quarterly,Detailed,Medium,Active,Organic,1,Structuring,Competition,Matching,20000,Maybe
+Other,FinTech,Expansion,1-3,51-200,0,50,50000,High Burn,Debt,200000,Convertible,Acquisition,1,Quarterly,Basic,Low,No,Partnership,1,Regulation,Costs,Valuation,300000,Yes
+India,Healthcare,Growth,5-10,201-500,1000000,10,200000,Loss,Debt,50000,Convertible,Tech,0,Quarterly,None,High,Open,Organic,1,Pitch,Competition,Restructuring,5000,No
+Other,E-commerce,Early,<1,201-500,0,25,700000,Profitable,Equity,50000,Mezzanine,Market Entry,0,Quarterly,Detailed,Low,Open,Organic,1,Valuation,Competition,Valuation,20000,Maybe
+Both,Real Estate,Mature,<1,500+,200000,25,50000,Loss,Equity,50000,Mezzanine,Expansion,0,Rare,Detailed,Medium,Open,Partnership,0,Pitch,Costs,Fundraising,5000,Maybe
+Both,E-commerce,Mature,10+,500+,5000000,10,10000,Loss,Both,15000000,Debt,Market Entry,1,Rare,Detailed,Medium,Open,Partnership,0,Pitch,Costs,Fundraising,100000,Maybe
+UAE,E-commerce,Growth,5-10,11-50,200000,80,200000,Profitable,None,15000000,Mezzanine,Working Capital,1,Annual,Detailed,Low,No,Organic,1,Regulation,Scaling,Matching,100000,Maybe
+India,Real Estate,Expansion,<1,11-50,0,50,50000,Loss,Both,200000,Debt,Working Capital,1,Monthly,Basic,Medium,No,Fundraising,0,Structuring,Costs,M&A,5000,No
+Other,Manufacturing,Idea,5-10,1-10,0,25,10000,Profitable,Debt,5000000,Convertible,Acquisition,1,Annual,Basic,Low,Active,Fundraising,1,Pitch,Scaling,Restructuring,5000,Yes
+UAE,Healthcare,Expansion,1-3,500+,15000000,80,200000,Profitable,Both,200000,Convertible,Acquisition,0,Monthly,Detailed,Medium,Open,Partnership,1,Regulation,Scaling,Restructuring,20000,Maybe
+Other,FinTech,Growth,3-5,51-200,1000000,10,10000,High Burn,Both,1000000,Equity,Tech,1,Quarterly,None,High,Open,Acquisition,0,Structuring,Scaling,M&A,5000,No
+Other,SaaS,Mature,<1,500+,1000000,80,200000,Break-even,Both,50000,Convertible,Market Entry,0,Monthly,Detailed,High,Open,Fundraising,0,Valuation,Competition,Fundraising,300000,Maybe
+UAE,FinTech,Expansion,10+,51-200,200000,0,700000,Break-even,Both,50000,Debt,Working Capital,1,Annual,None,Medium,No,Partnership,0,Valuation,Competition,Fundraising,300000,Yes
+UAE,SaaS,Mature,1-3,201-500,5000000,25,50000,Loss,None,50000,Mezzanine,Acquisition,0,Annual,Detailed,Low,Open,Fundraising,0,Access,Costs,Valuation,5000,Maybe
+UAE,FinTech,Idea,5-10,500+,1000000,10,10000,Loss,None,200000,Equity,Market Entry,0,Monthly,None,High,No,Acquisition,0,Regulation,Competition,Matching,300000,No
+UAE,Real Estate,Mature,1-3,201-500,15000000,50,200000,High Burn,Equity,200000,Debt,Acquisition,0,Rare,Detailed,Low,Open,Partnership,1,Structuring,Costs,Matching,5000,Yes
+UAE,Healthcare,Mature,<1,11-50,200000,10,10000,High Burn,Debt,50000,Mezzanine,Acquisition,1,Quarterly,None,Medium,Open,Acquisition,0,Pitch,Competition,Matching,20000,No
+Other,SaaS,Early,5-10,11-50,200000,50,10000,High Burn,Both,200000,Equity,Working Capital,0,Quarterly,Detailed,Low,Active,Partnership,0,Valuation,Cashflow,Valuation,300000,Yes
+UAE,Manufacturing,Early,3-5,1-10,15000000,10,50000,Profitable,Equity,15000000,Convertible,Working Capital,0,Annual,Detailed,High,Open,Acquisition,0,Structuring,Cashflow,Matching,300000,Yes
+India,FinTech,Early,1-3,500+,5000000,80,700000,High Burn,Equity,15000000,Debt,Acquisition,1,Rare,None,Low,Open,Fundraising,1,Regulation,Costs,M&A,5000,Yes
+Both,FinTech,Mature,<1,201-500,15000000,80,10000,High Burn,Equity,200000,Mezzanine,Expansion,0,Monthly,Basic,Low,Active,Fundraising,0,Access,Competition,Valuation,300000,Maybe
+UAE,SaaS,Growth,10+,51-200,5000000,80,200000,Loss,None,50000,Equity,Acquisition,1,Quarterly,None,Medium,No,Acquisition,1,Valuation,Competition,M&A,100000,No
+UAE,Manufacturing,Mature,5-10,11-50,15000000,0,200000,High Burn,Both,200000,Equity,Acquisition,1,Rare,Basic,Medium,No,Acquisition,0,Structuring,Scaling,Valuation,20000,No
+Other,Manufacturing,Growth,1-3,11-50,15000000,50,700000,Profitable,Both,200000,Convertible,Tech,0,Quarterly,Detailed,Medium,Open,Acquisition,0,Structuring,Hiring,Matching,20000,No
+UAE,Real Estate,Growth,1-3,51-200,0,80,200000,Profitable,Debt,200000,Mezzanine,Tech,0,Rare,None,High,No,Partnership,1,Structuring,Costs,M&A,300000,Yes
+UAE,Real Estate,Early,3-5,201-500,200000,0,700000,Loss,Both,1000000,Convertible,Tech,1,Rare,None,High,Open,Fundraising,0,Regulation,Hiring,M&A,300000,Maybe
+UAE,Real Estate,Expansion,3-5,201-500,15000000,50,200000,High Burn,Both,15000000,Convertible,Expansion,0,Annual,None,Medium,Active,Partnership,0,Regulation,Hiring,M&A,100000,Yes
+Other,Real Estate,Idea,10+,500+,15000000,10,50000,High Burn,Equity,5000000,Mezzanine,Expansion,1,Quarterly,Basic,Medium,Active,Fundraising,1,Regulation,Costs,Valuation,100000,No
+UAE,Real Estate,Early,10+,500+,1000000,0,10000,Profitable,Debt,5000000,Mezzanine,Acquisition,1,Monthly,Basic,High,Open,Organic,0,Pitch,Competition,Restructuring,300000,Maybe
+Both,Real Estate,Early,<1,1-10,200000,25,50000,High Burn,Both,1000000,Mezzanine,Tech,1,Annual,Detailed,High,Active,Partnership,1,Structuring,Costs,Matching,300000,Maybe
+Other,Healthcare,Expansion,<1,11-50,1000000,0,10000,High Burn,None,200000,Debt,Expansion,0,Annual,Basic,High,Active,Fundraising,1,Valuation,Hiring,M&A,100000,Maybe
+Both,Manufacturing,Idea,10+,500+,200000,0,10000,High Burn,Both,1000000,Mezzanine,Working Capital,1,Monthly,Basic,High,Open,Fundraising,1,Regulation,Competition,Restructuring,5000,No
+Other,Real Estate,Mature,10+,201-500,1000000,50,10000,Break-even,Equity,1000000,Equity,Acquisition,0,Annual,Detailed,Medium,Open,Partnership,1,Regulation,Cashflow,Matching,100000,Maybe
+UAE,Manufacturing,Mature,5-10,51-200,15000000,10,50000,Loss,None,50000,Convertible,Market Entry,0,Rare,None,High,Active,Partnership,1,Structuring,Costs,Matching,5000,Maybe
+Both,Manufacturing,Early,3-5,201-500,15000000,25,10000,Break-even,Equity,15000000,Debt,Acquisition,0,Rare,None,Medium,No,Fundraising,0,Regulation,Costs,M&A,20000,Yes
+Other,E-commerce,Idea,<1,11-50,0,80,50000,Loss,Both,5000000,Mezzanine,Market Entry,0,Quarterly,Detailed,Low,No,Partnership,0,Pitch,Competition,M&A,20000,Yes
+India,Healthcare,Early,3-5,201-500,1000000,80,700000,Profitable,None,200000,Debt,Tech,1,Quarterly,None,Low,Open,Acquisition,0,Pitch,Cashflow,Valuation,100000,Maybe
+UAE,Real Estate,Growth,3-5,1-10,5000000,0,200000,High Burn,Debt,5000000,Mezzanine,Market Entry,0,Monthly,Basic,High,Open,Partnership,1,Regulation,Cashflow,Restructuring,5000,Maybe
+Other,FinTech,Early,10+,11-50,0,50,200000,Loss,Debt,5000000,Debt,Tech,1,Quarterly,Detailed,Low,No,Partnership,1,Structuring,Competition,Restructuring,100000,Yes
+India,SaaS,Early,5-10,51-200,1000000,50,10000,Break-even,None,15000000,Convertible,Working Capital,1,Rare,Detailed,Low,Active,Partnership,1,Structuring,Scaling,M&A,100000,Yes
+Other,FinTech,Mature,1-3,1-10,1000000,80,50000,High Burn,None,5000000,Convertible,Market Entry,0,Monthly,Detailed,Low,No,Fundraising,1,Structuring,Costs,Matching,5000,Yes
+India,Healthcare,Mature,5-10,11-50,0,25,200000,Profitable,Equity,5000000,Equity,Acquisition,1,Monthly,None,High,No,Acquisition,0,Access,Costs,M&A,100000,No
+UAE,SaaS,Mature,5-10,51-200,15000000,10,50000,Loss,None,1000000,Equity,Tech,1,Quarterly,Detailed,High,No,Organic,0,Regulation,Hiring,Matching,20000,No
+Both,Healthcare,Growth,3-5,1-10,1000000,25,50000,Loss,Equity,15000000,Mezzanine,Acquisition,0,Rare,Detailed,Low,No,Organic,1,Structuring,Competition,Matching,300000,Yes
+India,Manufacturing,Mature,5-10,1-10,15000000,10,10000,Loss,Both,50000,Convertible,Expansion,1,Monthly,Detailed,Medium,Open,Acquisition,1,Pitch,Hiring,M&A,300000,Maybe
+Other,SaaS,Idea,<1,11-50,0,80,200000,High Burn,Equity,200000,Debt,Tech,1,Rare,None,Low,Open,Acquisition,0,Valuation,Hiring,Fundraising,100000,Yes
+UAE,Manufacturing,Expansion,3-5,500+,15000000,10,10000,Break-even,None,5000000,Debt,Market Entry,1,Rare,Basic,High,Active,Acquisition,1,Valuation,Cashflow,Restructuring,5000,No
+India,FinTech,Idea,<1,1-10,200000,50,10000,Break-even,None,200000,Debt,Tech,1,Rare,Detailed,High,Active,Fundraising,1,Structuring,Costs,Matching,5000,Maybe
+Other,FinTech,Idea,1-3,1-10,5000000,0,200000,Loss,Both,50000,Equity,Acquisition,0,Quarterly,Basic,High,Active,Organic,1,Valuation,Hiring,Matching,20000,No
+Other,SaaS,Mature,3-5,51-200,1000000,0,200000,Profitable,None,200000,Debt,Working Capital,1,Annual,None,Low,Active,Acquisition,0,Valuation,Cashflow,Fundraising,5000,Maybe
+Other,SaaS,Expansion,1-3,201-500,5000000,80,700000,Profitable,None,50000,Equity,Tech,1,Annual,None,Medium,No,Fundraising,0,Access,Competition,Valuation,5000,No
+India,Real Estate,Expansion,3-5,11-50,15000000,50,700000,Break-even,Debt,1000000,Equity,Market Entry,1,Monthly,None,High,Open,Organic,1,Pitch,Hiring,Fundraising,20000,Maybe
+India,Healthcare,Expansion,10+,11-50,1000000,25,50000,Profitable,Debt,5000000,Mezzanine,Expansion,1,Rare,None,High,Open,Partnership,0,Pitch,Costs,Fundraising,100000,Maybe
+India,Real Estate,Growth,5-10,500+,15000000,50,200000,Break-even,Both,50000,Debt,Working Capital,0,Quarterly,Basic,Low,Active,Fundraising,1,Access,Hiring,Matching,300000,Maybe
+Both,Healthcare,Mature,10+,500+,200000,0,700000,Loss,Equity,200000,Debt,Expansion,1,Rare,Detailed,Medium,Active,Organic,1,Access,Competition,Restructuring,20000,Maybe
+India,Real Estate,Expansion,1-3,11-50,0,0,50000,Break-even,Debt,5000000,Convertible,Tech,0,Rare,None,Low,No,Fundraising,0,Valuation,Hiring,Fundraising,100000,No
+India,Manufacturing,Growth,5-10,500+,1000000,50,50000,Break-even,Equity,1000000,Mezzanine,Acquisition,1,Quarterly,None,High,No,Organic,1,Regulation,Costs,Valuation,20000,No
+India,SaaS,Early,3-5,51-200,200000,50,50000,Loss,None,5000000,Convertible,Acquisition,0,Annual,Basic,Medium,Active,Organic,1,Valuation,Cashflow,M&A,100000,Maybe
+Both,FinTech,Early,5-10,11-50,200000,0,700000,Profitable,Debt,50000,Mezzanine,Market Entry,0,Rare,Basic,Medium,Open,Partnership,0,Access,Costs,Fundraising,20000,Maybe
+India,Healthcare,Growth,<1,500+,1000000,25,200000,Break-even,Both,1000000,Debt,Acquisition,0,Rare,None,High,Open,Fundraising,1,Pitch,Cashflow,Fundraising,100000,No
+Other,Healthcare,Growth,5-10,11-50,15000000,80,10000,Break-even,Both,200000,Equity,Working Capital,0,Annual,Detailed,Medium,Open,Acquisition,1,Valuation,Scaling,Valuation,20000,Maybe
+India,FinTech,Mature,<1,201-500,200000,80,50000,Loss,Both,1000000,Equity,Acquisition,0,Quarterly,Detailed,Medium,Active,Partnership,1,Regulation,Costs,Restructuring,100000,Maybe
+Other,Real Estate,Mature,5-10,1-10,5000000,50,700000,Profitable,Debt,1000000,Equity,Market Entry,1,Monthly,None,Low,Open,Partnership,0,Valuation,Costs,Fundraising,20000,Maybe
+Other,Healthcare,Early,<1,11-50,200000,80,700000,Break-even,Equity,15000000,Equity,Tech,1,Annual,Basic,High,No,Organic,1,Structuring,Competition,Fundraising,300000,Yes
+Other,Manufacturing,Expansion,1-3,1-10,15000000,0,10000,Loss,None,1000000,Equity,Tech,1,Monthly,None,High,No,Acquisition,0,Valuation,Hiring,Restructuring,300000,Maybe
+Both,SaaS,Early,10+,500+,15000000,0,10000,Break-even,Equity,1000000,Convertible,Acquisition,0,Monthly,None,High,Active,Fundraising,1,Access,Cashflow,Valuation,5000,Yes
+Both,FinTech,Expansion,3-5,1-10,5000000,50,700000,High Burn,Equity,5000000,Mezzanine,Expansion,1,Annual,Basic,High,No,Acquisition,1,Pitch,Cashflow,Fundraising,100000,Maybe
+Both,SaaS,Expansion,5-10,11-50,200000,50,200000,Loss,None,200000,Debt,Tech,0,Rare,None,High,Active,Acquisition,1,Pitch,Competition,Restructuring,20000,No
+India,Healthcare,Mature,10+,201-500,15000000,50,10000,Profitable,None,5000000,Convertible,Acquisition,0,Monthly,None,Medium,Open,Acquisition,1,Access,Competition,Fundraising,100000,Yes
+Other,Healthcare,Idea,3-5,500+,1000000,25,700000,Profitable,Debt,5000000,Mezzanine,Market Entry,1,Monthly,None,Low,Open,Acquisition,0,Structuring,Hiring,M&A,300000,Yes
+Both,FinTech,Idea,3-5,11-50,0,80,10000,Profitable,Debt,50000,Equity,Acquisition,1,Quarterly,Basic,High,Open,Acquisition,0,Access,Hiring,Matching,100000,Maybe
+Both,Manufacturing,Growth,<1,500+,0,50,200000,Profitable,Debt,5000000,Mezzanine,Tech,0,Rare,Detailed,Low,No,Organic,1,Valuation,Costs,M&A,20000,Maybe
+India,E-commerce,Mature,1-3,51-200,0,10,50000,Break-even,Debt,15000000,Mezzanine,Market Entry,0,Monthly,Detailed,Low,Active,Organic,1,Access,Scaling,Fundraising,100000,Yes
+Both,FinTech,Expansion,1-3,1-10,200000,10,10000,Break-even,Debt,15000000,Equity,Acquisition,1,Quarterly,Basic,Medium,Open,Partnership,1,Access,Hiring,Valuation,20000,No
+India,E-commerce,Idea,10+,51-200,5000000,0,200000,Profitable,None,50000,Equity,Working Capital,1,Rare,Detailed,High,Active,Organic,1,Structuring,Competition,Matching,300000,No
+UAE,Real Estate,Expansion,1-3,11-50,15000000,80,700000,Profitable,Equity,200000,Equity,Market Entry,1,Annual,None,Medium,Open,Partnership,1,Valuation,Hiring,M&A,300000,Maybe
+Both,E-commerce,Idea,5-10,201-500,1000000,50,10000,Profitable,Debt,200000,Debt,Working Capital,1,Annual,Detailed,High,No,Partnership,1,Regulation,Cashflow,Restructuring,300000,No
+UAE,Manufacturing,Idea,1-3,500+,1000000,10,10000,Break-even,Debt,5000000,Equity,Expansion,0,Quarterly,None,Medium,No,Fundraising,1,Regulation,Scaling,Valuation,5000,No
+India,Real Estate,Idea,10+,1-10,200000,80,700000,Profitable,Equity,5000000,Debt,Market Entry,1,Annual,Detailed,Low,Active,Acquisition,1,Pitch,Costs,M&A,300000,Maybe
+Other,E-commerce,Mature,1-3,500+,0,0,50000,Profitable,Debt,5000000,Equity,Working Capital,1,Monthly,Basic,High,No,Organic,0,Access,Cashflow,Restructuring,100000,No
+Both,Real Estate,Early,5-10,11-50,200000,25,700000,High Burn,Equity,200000,Debt,Tech,1,Rare,Detailed,Low,No,Fundraising,0,Pitch,Cashflow,Fundraising,5000,Maybe
+India,E-commerce,Expansion,<1,500+,5000000,80,10000,High Burn,Equity,1000000,Mezzanine,Tech,0,Monthly,Detailed,Low,Active,Organic,0,Structuring,Scaling,Restructuring,300000,Yes
+Other,Manufacturing,Mature,10+,1-10,5000000,80,700000,Profitable,None,15000000,Convertible,Expansion,0,Monthly,Detailed,Medium,Open,Partnership,1,Regulation,Costs,M&A,100000,Maybe
+Other,E-commerce,Mature,<1,11-50,15000000,25,200000,Loss,Both,1000000,Mezzanine,Market Entry,0,Annual,Basic,High,No,Organic,1,Access,Competition,M&A,100000,Yes
+UAE,E-commerce,Mature,<1,500+,15000000,80,700000,Profitable,None,1000000,Mezzanine,Market Entry,0,Monthly,Detailed,Low,Active,Acquisition,1,Structuring,Costs,Fundraising,100000,Yes
+India,E-commerce,Mature,<1,201-500,5000000,0,10000,High Burn,Both,200000,Equity,Market Entry,1,Annual,Basic,Medium,No,Partnership,0,Structuring,Hiring,Restructuring,20000,No
+Other,FinTech,Mature,3-5,11-50,5000000,0,700000,Loss,Both,1000000,Debt,Expansion,0,Rare,None,High,No,Partnership,1,Access,Cashflow,Restructuring,5000,No
+Both,FinTech,Growth,3-5,11-50,5000000,25,50000,Loss,Both,50000,Convertible,Market Entry,1,Rare,Detailed,High,No,Fundraising,0,Structuring,Hiring,Fundraising,100000,No
+Both,FinTech,Expansion,<1,201-500,200000,50,700000,Profitable,Debt,5000000,Equity,Tech,1,Monthly,Basic,Low,No,Acquisition,1,Access,Competition,Restructuring,20000,Maybe
+UAE,Manufacturing,Mature,10+,51-200,5000000,10,50000,High Burn,None,50000,Equity,Working Capital,1,Quarterly,Basic,High,Active,Partnership,0,Access,Hiring,Fundraising,300000,No
+Other,Real Estate,Expansion,5-10,1-10,1000000,50,200000,High Burn,Both,15000000,Equity,Tech,1,Annual,Detailed,Low,Active,Acquisition,0,Valuation,Costs,Valuation,100000,Yes
+India,Healthcare,Growth,5-10,51-200,0,80,50000,Loss,Equity,5000000,Mezzanine,Tech,0,Annual,None,High,Active,Organic,0,Pitch,Hiring,M&A,20000,No
+Both,E-commerce,Growth,1-3,500+,5000000,10,700000,Profitable,Debt,1000000,Debt,Working Capital,0,Monthly,Basic,Medium,No,Acquisition,1,Structuring,Competition,Valuation,100000,No
+Other,E-commerce,Expansion,10+,201-500,0,25,10000,Break-even,None,15000000,Debt,Tech,0,Annual,Detailed,Low,No,Partnership,0,Structuring,Competition,Matching,5000,Maybe
+Other,Manufacturing,Idea,3-5,51-200,200000,25,50000,Break-even,Both,5000000,Convertible,Expansion,1,Annual,None,Low,No,Fundraising,1,Valuation,Competition,Matching,5000,Maybe
+UAE,E-commerce,Early,<1,11-50,0,10,200000,High Burn,Equity,1000000,Debt,Working Capital,1,Quarterly,Basic,High,Active,Partnership,1,Valuation,Costs,Matching,300000,Yes
+Both,FinTech,Idea,1-3,500+,200000,0,50000,Break-even,None,50000,Debt,Tech,1,Quarterly,Basic,High,No,Acquisition,1,Valuation,Competition,Fundraising,100000,Maybe
+Both,Healthcare,Idea,5-10,500+,1000000,10,50000,High Burn,None,5000000,Equity,Acquisition,1,Monthly,None,Low,Open,Acquisition,1,Regulation,Cashflow,Restructuring,20000,No
+India,SaaS,Idea,3-5,51-200,200000,80,50000,High Burn,Debt,1000000,Equity,Tech,1,Quarterly,None,High,No,Partnership,1,Regulation,Competition,Valuation,300000,Maybe
+Both,E-commerce,Mature,3-5,51-200,200000,0,200000,High Burn,None,50000,Mezzanine,Expansion,0,Monthly,Detailed,Medium,Open,Acquisition,0,Regulation,Hiring,Valuation,100000,Yes
+India,FinTech,Growth,<1,201-500,15000000,25,700000,Break-even,Debt,15000000,Equity,Market Entry,1,Rare,Detailed,High,No,Organic,1,Access,Hiring,Valuation,300000,No
+Both,SaaS,Idea,5-10,1-10,5000000,10,50000,High Burn,Both,15000000,Equity,Tech,0,Monthly,Basic,Medium,Active,Partnership,1,Structuring,Hiring,Valuation,20000,Yes
+UAE,Healthcare,Growth,10+,51-200,5000000,50,50000,Loss,Debt,15000000,Equity,Market Entry,1,Rare,None,Medium,No,Fundraising,1,Pitch,Costs,Matching,300000,Maybe
+Both,SaaS,Expansion,3-5,51-200,1000000,50,10000,Profitable,Equity,15000000,Equity,Acquisition,1,Monthly,None,Medium,Open,Partnership,1,Access,Hiring,Valuation,300000,Maybe
+India,FinTech,Early,<1,11-50,1000000,80,200000,Profitable,Debt,200000,Mezzanine,Tech,0,Annual,None,Medium,Open,Organic,1,Structuring,Costs,Restructuring,300000,Yes
+India,Real Estate,Expansion,10+,500+,5000000,50,50000,High Burn,Equity,5000000,Equity,Working Capital,0,Quarterly,Basic,Medium,No,Organic,0,Structuring,Costs,Matching,100000,No
+UAE,Real Estate,Expansion,5-10,1-10,15000000,10,200000,Profitable,Debt,5000000,Convertible,Market Entry,1,Rare,None,High,Open,Organic,0,Valuation,Competition,Valuation,20000,Maybe
+Both,SaaS,Mature,3-5,11-50,5000000,10,50000,Break-even,None,200000,Convertible,Acquisition,1,Monthly,None,Medium,Open,Organic,1,Valuation,Cashflow,Fundraising,5000,Maybe
+Both,Manufacturing,Early,10+,201-500,15000000,50,700000,Break-even,Both,1000000,Convertible,Working Capital,1,Quarterly,Basic,High,Active,Organic,0,Access,Competition,M&A,100000,No
+UAE,SaaS,Expansion,10+,201-500,1000000,10,700000,Profitable,Equity,1000000,Convertible,Working Capital,1,Monthly,Detailed,Medium,No,Fundraising,0,Valuation,Competition,M&A,5000,Maybe
+Both,E-commerce,Expansion,10+,51-200,0,80,50000,Break-even,Debt,15000000,Equity,Working Capital,0,Quarterly,Detailed,Low,No,Acquisition,1,Structuring,Costs,M&A,5000,Yes
+Both,E-commerce,Early,3-5,51-200,1000000,0,700000,Profitable,Debt,50000,Convertible,Working Capital,1,Quarterly,Basic,Medium,No,Organic,0,Valuation,Costs,Matching,100000,Maybe
+India,Real Estate,Early,3-5,201-500,1000000,80,50000,Profitable,Debt,1000000,Equity,Tech,0,Monthly,None,Low,Open,Organic,1,Regulation,Hiring,Valuation,100000,Maybe
+Both,Manufacturing,Expansion,1-3,51-200,200000,80,700000,Profitable,None,50000,Mezzanine,Tech,1,Rare,Basic,Medium,No,Partnership,0,Valuation,Hiring,Matching,20000,No
+Both,FinTech,Early,5-10,1-10,200000,10,10000,High Burn,None,5000000,Convertible,Tech,0,Rare,Detailed,Medium,No,Fundraising,0,Structuring,Competition,Restructuring,20000,Yes
+UAE,E-commerce,Expansion,<1,51-200,200000,0,10000,Profitable,Equity,50000,Debt,Acquisition,0,Annual,Detailed,Medium,Active,Fundraising,0,Access,Scaling,Fundraising,300000,No
+UAE,Real Estate,Expansion,10+,500+,200000,10,10000,High Burn,Equity,5000000,Convertible,Acquisition,1,Quarterly,Basic,Low,Active,Acquisition,1,Pitch,Scaling,Fundraising,5000,Maybe
+Other,Healthcare,Mature,1-3,51-200,15000000,25,200000,Profitable,None,200000,Convertible,Acquisition,0,Annual,Basic,Low,Active,Fundraising,0,Valuation,Hiring,M&A,20000,Maybe
+India,Real Estate,Idea,<1,11-50,5000000,10,200000,Profitable,Equity,200000,Equity,Expansion,1,Annual,Detailed,Medium,Open,Partnership,0,Structuring,Scaling,M&A,300000,No
+Both,E-commerce,Expansion,1-3,1-10,0,10,10000,Profitable,Both,15000000,Convertible,Acquisition,0,Monthly,Basic,High,No,Partnership,1,Pitch,Hiring,M&A,20000,No
+Both,E-commerce,Growth,3-5,11-50,1000000,10,200000,Break-even,Both,1000000,Debt,Tech,1,Monthly,Detailed,Medium,Active,Acquisition,1,Pitch,Costs,Valuation,100000,No
+Other,Real Estate,Idea,10+,11-50,15000000,0,700000,High Burn,None,15000000,Equity,Tech,0,Monthly,Basic,Low,Active,Partnership,0,Regulation,Competition,Restructuring,20000,Yes
+Both,FinTech,Idea,<1,500+,0,10,50000,High Burn,Equity,5000000,Equity,Expansion,1,Quarterly,Basic,Medium,Active,Organic,1,Pitch,Cashflow,Restructuring,5000,Maybe
+India,SaaS,Idea,<1,1-10,15000000,0,50000,Profitable,Debt,15000000,Mezzanine,Expansion,1,Monthly,Basic,Low,No,Organic,0,Structuring,Competition,Restructuring,20000,No
+Other,E-commerce,Mature,<1,1-10,15000000,50,50000,Profitable,Both,50000,Mezzanine,Acquisition,0,Monthly,Detailed,Low,No,Partnership,0,Structuring,Hiring,Restructuring,5000,Maybe
+India,Real Estate,Expansion,<1,1-10,1000000,25,10000,Break-even,None,5000000,Convertible,Market Entry,0,Quarterly,Basic,Low,No,Acquisition,1,Valuation,Hiring,M&A,100000,Yes
+Other,Real Estate,Mature,<1,1-10,5000000,0,200000,Break-even,Equity,200000,Mezzanine,Expansion,0,Quarterly,Detailed,Medium,Open,Fundraising,1,Valuation,Competition,Fundraising,5000,Yes
+Other,Manufacturing,Expansion,1-3,1-10,200000,50,700000,Break-even,None,1000000,Mezzanine,Working Capital,0,Rare,Detailed,Low,Open,Acquisition,1,Valuation,Hiring,M&A,20000,Yes
+UAE,SaaS,Mature,10+,500+,5000000,0,700000,High Burn,Debt,5000000,Mezzanine,Tech,1,Monthly,Basic,Low,Active,Fundraising,0,Pitch,Scaling,Restructuring,300000,Yes
+India,Healthcare,Mature,3-5,51-200,1000000,0,10000,High Burn,Both,5000000,Equity,Working Capital,0,Monthly,Basic,Medium,No,Partnership,1,Pitch,Scaling,M&A,100000,Maybe
+Both,FinTech,Growth,3-5,11-50,1000000,25,700000,High Burn,None,50000,Equity,Tech,1,Monthly,Detailed,Low,Active,Partnership,0,Regulation,Hiring,Restructuring,20000,Yes
+Both,Healthcare,Mature,3-5,1-10,1000000,80,700000,Profitable,None,1000000,Equity,Tech,0,Rare,Detailed,Medium,No,Organic,1,Valuation,Hiring,Matching,100000,Yes
+India,SaaS,Early,3-5,51-200,0,80,700000,High Burn,None,200000,Mezzanine,Expansion,1,Monthly,None,Low,No,Fundraising,0,Access,Scaling,Fundraising,100000,No
+Both,SaaS,Growth,1-3,51-200,5000000,0,700000,Loss,Debt,5000000,Equity,Expansion,1,Rare,Detailed,High,No,Acquisition,1,Regulation,Hiring,Matching,20000,Yes
+Both,SaaS,Mature,5-10,11-50,5000000,10,200000,Loss,None,5000000,Mezzanine,Working Capital,1,Annual,None,High,Open,Partnership,0,Access,Hiring,Valuation,20000,No
+India,Healthcare,Idea,10+,500+,15000000,50,700000,Break-even,Debt,50000,Equity,Tech,1,Rare,None,Low,Open,Acquisition,1,Pitch,Competition,M&A,300000,Yes
+Other,SaaS,Early,<1,201-500,15000000,10,50000,High Burn,Debt,15000000,Equity,Working Capital,0,Annual,None,High,No,Organic,0,Regulation,Cashflow,Valuation,100000,Yes
+India,Real Estate,Early,5-10,201-500,15000000,10,10000,Loss,Debt,200000,Debt,Market Entry,0,Monthly,Basic,Medium,Active,Fundraising,1,Regulation,Scaling,M&A,100000,No
+Other,Healthcare,Early,3-5,51-200,1000000,0,200000,Break-even,Both,1000000,Convertible,Working Capital,1,Annual,Basic,High,No,Fundraising,1,Structuring,Competition,Matching,20000,Yes
+Both,SaaS,Growth,5-10,11-50,5000000,0,700000,High Burn,Both,5000000,Mezzanine,Acquisition,0,Rare,Detailed,Low,No,Partnership,0,Pitch,Cashflow,Restructuring,5000,Maybe
+Both,Real Estate,Mature,10+,201-500,1000000,0,200000,Profitable,None,5000000,Debt,Working Capital,0,Quarterly,None,Low,Active,Fundraising,1,Pitch,Hiring,Restructuring,20000,Maybe
+Both,Manufacturing,Mature,<1,51-200,0,0,700000,Loss,None,200000,Equity,Acquisition,1,Annual,Basic,Medium,No,Partnership,0,Regulation,Hiring,M&A,100000,Yes
+UAE,SaaS,Idea,<1,500+,15000000,80,50000,Profitable,Both,15000000,Mezzanine,Acquisition,0,Annual,Basic,Low,Active,Organic,0,Pitch,Competition,Restructuring,20000,Maybe
+Other,Healthcare,Idea,10+,201-500,1000000,0,10000,High Burn,Equity,5000000,Equity,Acquisition,0,Monthly,Basic,Medium,Open,Fundraising,1,Regulation,Hiring,Matching,300000,No
+UAE,E-commerce,Early,10+,51-200,1000000,80,700000,Loss,Both,200000,Convertible,Market Entry,0,Rare,Basic,High,Open,Partnership,0,Structuring,Costs,Restructuring,5000,Yes
+UAE,SaaS,Idea,3-5,51-200,0,80,700000,High Burn,Debt,50000,Debt,Working Capital,1,Annual,Basic,High,Active,Acquisition,1,Regulation,Competition,Matching,20000,Yes
+India,E-commerce,Growth,<1,1-10,200000,0,700000,Profitable,Both,15000000,Convertible,Working Capital,0,Annual,None,Medium,Open,Partnership,1,Pitch,Cashflow,Valuation,300000,No
+UAE,Real Estate,Mature,5-10,500+,5000000,25,700000,Loss,Debt,1000000,Debt,Market Entry,1,Annual,None,Medium,Open,Fundraising,0,Pitch,Competition,Matching,100000,No
+India,Manufacturing,Early,1-3,1-10,200000,50,10000,Profitable,None,5000000,Equity,Tech,0,Annual,None,Low,Active,Organic,1,Regulation,Scaling,Fundraising,20000,No
+India,FinTech,Idea,1-3,11-50,15000000,10,10000,High Burn,Equity,200000,Convertible,Expansion,0,Quarterly,None,High,Open,Fundraising,0,Regulation,Competition,Fundraising,100000,Yes
+UAE,Manufacturing,Growth,10+,1-10,1000000,80,50000,High Burn,None,50000,Convertible,Working Capital,0,Rare,Detailed,Medium,No,Fundraising,0,Regulation,Hiring,Fundraising,300000,No
+Other,SaaS,Growth,3-5,1-10,0,50,10000,Profitable,Debt,1000000,Equity,Expansion,1,Monthly,None,High,No,Partnership,1,Valuation,Hiring,M&A,100000,No
+Other,E-commerce,Idea,1-3,201-500,0,25,700000,Loss,Debt,200000,Convertible,Market Entry,1,Monthly,Basic,Medium,Active,Acquisition,1,Pitch,Costs,M&A,300000,Maybe
+Other,E-commerce,Mature,<1,51-200,5000000,10,50000,Profitable,Debt,200000,Mezzanine,Tech,0,Quarterly,None,High,Open,Fundraising,0,Pitch,Costs,M&A,300000,Maybe
+Other,Healthcare,Idea,10+,500+,200000,10,50000,High Burn,Equity,1000000,Debt,Tech,1,Rare,Detailed,Low,No,Acquisition,0,Valuation,Costs,Matching,300000,Yes
+Other,E-commerce,Early,5-10,1-10,5000000,80,50000,Profitable,Both,50000,Debt,Tech,0,Annual,Basic,High,No,Partnership,1,Regulation,Cashflow,M&A,20000,Maybe
+UAE,Healthcare,Idea,10+,500+,1000000,0,700000,High Burn,None,50000,Debt,Market Entry,1,Quarterly,None,High,Open,Acquisition,1,Structuring,Costs,Valuation,100000,Maybe
+UAE,Real Estate,Growth,5-10,1-10,5000000,25,200000,Profitable,None,15000000,Mezzanine,Acquisition,1,Rare,None,High,Open,Partnership,1,Regulation,Cashflow,Fundraising,100000,No
+Both,FinTech,Idea,10+,11-50,0,80,700000,Loss,Both,5000000,Debt,Acquisition,0,Annual,None,High,No,Organic,1,Regulation,Costs,Matching,5000,No
+Other,SaaS,Mature,10+,1-10,0,25,10000,Loss,None,1000000,Equity,Expansion,0,Quarterly,Basic,High,No,Acquisition,0,Valuation,Cashflow,Fundraising,5000,Maybe
+UAE,Healthcare,Expansion,10+,201-500,15000000,0,10000,Profitable,Equity,1000000,Convertible,Acquisition,0,Rare,Basic,Low,Active,Acquisition,1,Pitch,Competition,M&A,5000,Maybe
+Both,FinTech,Idea,5-10,51-200,15000000,0,700000,Profitable,None,1000000,Mezzanine,Acquisition,0,Monthly,Detailed,Medium,Active,Organic,0,Regulation,Competition,Matching,5000,Maybe
+Other,E-commerce,Mature,5-10,11-50,1000000,80,700000,Loss,Debt,50000,Debt,Tech,1,Monthly,Basic,High,No,Acquisition,0,Pitch,Hiring,Restructuring,100000,Yes
+India,E-commerce,Mature,10+,1-10,200000,0,50000,High Burn,Both,5000000,Equity,Tech,1,Rare,Basic,Low,Active,Organic,1,Access,Cashflow,Valuation,300000,Yes
+Both,FinTech,Growth,1-3,500+,5000000,50,700000,Loss,Equity,15000000,Convertible,Expansion,1,Monthly,None,High,No,Fundraising,0,Pitch,Scaling,M&A,300000,Yes
+UAE,E-commerce,Mature,3-5,11-50,1000000,10,50000,High Burn,Both,200000,Convertible,Working Capital,0,Rare,Basic,High,No,Partnership,1,Structuring,Hiring,M&A,20000,Maybe
+India,Real Estate,Mature,3-5,11-50,15000000,80,10000,Profitable,Equity,200000,Mezzanine,Expansion,0,Annual,None,Medium,Active,Organic,0,Structuring,Competition,Valuation,300000,Maybe
+India,Real Estate,Mature,3-5,1-10,5000000,25,50000,Profitable,Debt,1000000,Mezzanine,Expansion,1,Rare,None,High,Active,Acquisition,1,Regulation,Cashflow,Valuation,100000,Yes
+India,FinTech,Mature,5-10,11-50,15000000,50,700000,High Burn,Both,5000000,Mezzanine,Market Entry,0,Annual,Basic,Low,Open,Organic,0,Pitch,Costs,Restructuring,100000,Yes
+Both,Healthcare,Early,5-10,500+,5000000,80,10000,Profitable,None,50000,Equity,Market Entry,1,Quarterly,Detailed,Low,Open,Acquisition,0,Regulation,Scaling,M&A,100000,Maybe
+UAE,Healthcare,Early,1-3,11-50,200000,0,200000,High Burn,Equity,5000000,Equity,Expansion,1,Rare,Detailed,Medium,Open,Fundraising,1,Valuation,Competition,M&A,20000,No
+India,FinTech,Growth,3-5,500+,1000000,0,50000,Break-even,Both,5000000,Mezzanine,Expansion,1,Quarterly,Basic,High,No,Organic,1,Structuring,Hiring,Fundraising,5000,Yes
+Other,Healthcare,Idea,3-5,1-10,5000000,0,10000,Loss,None,50000,Debt,Expansion,1,Monthly,Detailed,Low,Active,Fundraising,0,Regulation,Cashflow,Matching,300000,Maybe
+India,Healthcare,Mature,10+,51-200,0,0,50000,Break-even,Both,1000000,Convertible,Acquisition,1,Annual,None,High,No,Partnership,0,Valuation,Scaling,Matching,100000,Maybe
+India,Real Estate,Idea,5-10,11-50,0,25,10000,High Burn,Both,5000000,Convertible,Market Entry,0,Rare,None,High,Active,Acquisition,1,Regulation,Cashflow,Fundraising,100000,No
+Both,Healthcare,Idea,3-5,51-200,5000000,50,10000,Loss,Both,200000,Equity,Expansion,0,Quarterly,Basic,High,No,Acquisition,0,Pitch,Costs,Matching,5000,Maybe
+Both,Manufacturing,Growth,1-3,500+,5000000,10,50000,High Burn,Equity,50000,Convertible,Tech,0,Annual,Detailed,Medium,Open,Fundraising,1,Pitch,Hiring,Valuation,100000,Maybe
+UAE,SaaS,Mature,1-3,11-50,5000000,25,200000,Loss,None,15000000,Debt,Tech,1,Annual,Detailed,High,Open,Partnership,0,Pitch,Cashflow,Matching,300000,Yes
+Other,E-commerce,Mature,3-5,201-500,0,25,10000,Loss,Debt,1000000,Convertible,Acquisition,1,Monthly,None,Low,Open,Organic,1,Pitch,Competition,Matching,20000,Yes
+Both,Manufacturing,Expansion,5-10,51-200,0,10,10000,Loss,Equity,50000,Equity,Acquisition,1,Monthly,Basic,High,No,Organic,0,Access,Hiring,Fundraising,100000,No
+India,Healthcare,Idea,1-3,11-50,5000000,10,10000,Loss,Equity,15000000,Equity,Working Capital,1,Annual,Detailed,Low,Active,Acquisition,1,Valuation,Competition,Restructuring,300000,No
+UAE,Real Estate,Idea,10+,51-200,15000000,0,200000,High Burn,Equity,15000000,Debt,Working Capital,0,Annual,Basic,High,Active,Fundraising,1,Valuation,Cashflow,Matching,100000,Maybe
+India,FinTech,Early,1-3,11-50,15000000,25,200000,Loss,Debt,5000000,Debt,Working Capital,0,Rare,Detailed,Low,Open,Fundraising,0,Pitch,Hiring,Matching,5000,Yes
+India,Healthcare,Expansion,<1,1-10,200000,80,700000,Loss,None,5000000,Convertible,Acquisition,1,Annual,None,Low,Open,Organic,1,Access,Competition,Restructuring,100000,No
+Both,Real Estate,Early,<1,51-200,1000000,10,50000,Break-even,None,5000000,Convertible,Acquisition,1,Rare,None,High,Open,Partnership,0,Pitch,Costs,Fundraising,100000,No
+UAE,SaaS,Early,5-10,201-500,15000000,10,200000,Profitable,None,50000,Equity,Acquisition,1,Annual,Basic,High,Open,Partnership,1,Access,Costs,Restructuring,20000,No
+Other,Healthcare,Early,3-5,201-500,0,50,50000,Profitable,Both,50000,Debt,Tech,0,Monthly,None,Low,Active,Organic,1,Pitch,Cashflow,Fundraising,5000,Maybe
+Other,FinTech,Growth,5-10,500+,15000000,80,700000,Break-even,Both,1000000,Debt,Acquisition,0,Rare,Detailed,Medium,No,Organic,1,Structuring,Hiring,Valuation,5000,Yes
+Both,Real Estate,Growth,5-10,11-50,200000,80,50000,Break-even,Both,5000000,Debt,Tech,0,Quarterly,None,High,No,Fundraising,0,Structuring,Scaling,Fundraising,20000,No
+Both,Real Estate,Early,5-10,51-200,200000,10,200000,High Burn,Debt,15000000,Convertible,Working Capital,1,Monthly,Basic,Medium,No,Partnership,1,Regulation,Hiring,Valuation,100000,Yes
+UAE,Real Estate,Expansion,5-10,500+,1000000,0,50000,High Burn,Both,200000,Debt,Working Capital,1,Rare,Basic,High,No,Organic,0,Pitch,Costs,Valuation,300000,No
+Other,SaaS,Idea,10+,51-200,15000000,50,200000,High Burn,Debt,1000000,Equity,Working Capital,0,Rare,Basic,High,Open,Organic,1,Valuation,Competition,Fundraising,5000,No
+Other,Healthcare,Expansion,10+,11-50,0,80,50000,Break-even,None,50000,Equity,Expansion,1,Quarterly,Detailed,High,Open,Acquisition,0,Regulation,Scaling,M&A,5000,Yes
+Other,SaaS,Mature,1-3,201-500,0,10,200000,Break-even,Both,1000000,Convertible,Expansion,0,Rare,Detailed,High,Open,Organic,0,Structuring,Cashflow,Fundraising,100000,Yes
+India,E-commerce,Growth,<1,1-10,5000000,80,200000,Loss,Both,1000000,Mezzanine,Market Entry,1,Annual,Detailed,Medium,No,Organic,0,Pitch,Scaling,Matching,100000,Yes
+Other,E-commerce,Idea,5-10,201-500,0,50,50000,High Burn,Equity,1000000,Convertible,Market Entry,0,Quarterly,Detailed,High,Open,Partnership,1,Regulation,Cashflow,Matching,5000,Maybe
+India,Healthcare,Idea,1-3,500+,1000000,50,700000,High Burn,Debt,1000000,Mezzanine,Market Entry,1,Monthly,Detailed,Low,Open,Fundraising,0,Pitch,Scaling,M&A,100000,No
+UAE,SaaS,Mature,<1,1-10,1000000,25,10000,High Burn,None,200000,Debt,Expansion,0,Monthly,None,Low,Active,Partnership,1,Structuring,Cashflow,Valuation,300000,Maybe
+India,FinTech,Mature,3-5,500+,0,10,700000,Profitable,Equity,5000000,Convertible,Expansion,0,Annual,Detailed,Medium,Active,Fundraising,0,Regulation,Cashflow,M&A,5000,Yes
+UAE,Real Estate,Early,10+,11-50,0,50,50000,Loss,Equity,15000000,Equity,Market Entry,0,Monthly,Detailed,High,Open,Acquisition,0,Structuring,Scaling,Matching,300000,No
+Other,Real Estate,Growth,<1,1-10,5000000,25,700000,High Burn,None,1000000,Debt,Market Entry,0,Rare,None,Low,Active,Organic,0,Access,Scaling,M&A,300000,Maybe
+Other,Healthcare,Growth,3-5,500+,0,25,200000,High Burn,Equity,1000000,Equity,Acquisition,0,Rare,Detailed,Medium,Active,Acquisition,0,Structuring,Cashflow,Fundraising,100000,No
+UAE,E-commerce,Expansion,<1,11-50,5000000,80,10000,High Burn,Debt,1000000,Debt,Market Entry,0,Annual,Basic,High,Open,Fundraising,1,Pitch,Costs,M&A,300000,Maybe
+Both,E-commerce,Early,10+,201-500,5000000,80,50000,Profitable,Debt,5000000,Convertible,Acquisition,1,Monthly,Detailed,Low,Open,Partnership,0,Valuation,Scaling,Valuation,100000,Yes
+UAE,Real Estate,Early,10+,11-50,0,25,50000,Profitable,Both,50000,Mezzanine,Tech,1,Monthly,Detailed,Low,Open,Partnership,0,Structuring,Hiring,Fundraising,20000,Maybe
+Both,Healthcare,Early,1-3,51-200,200000,80,50000,Break-even,Equity,50000,Debt,Expansion,1,Annual,Basic,Medium,Open,Acquisition,1,Valuation,Competition,Restructuring,100000,No
+India,SaaS,Early,5-10,11-50,200000,50,10000,Loss,Both,200000,Mezzanine,Market Entry,0,Quarterly,Basic,High,No,Fundraising,0,Access,Cashflow,Matching,300000,No
+India,E-commerce,Growth,<1,11-50,5000000,0,200000,Break-even,Equity,50000,Debt,Expansion,0,Monthly,Basic,High,No,Acquisition,0,Regulation,Cashflow,Matching,20000,No
+India,SaaS,Growth,<1,51-200,0,50,50000,Loss,Debt,1000000,Equity,Expansion,1,Quarterly,Basic,Low,Open,Acquisition,0,Regulation,Competition,M&A,100000,No
+Other,E-commerce,Early,3-5,500+,200000,25,700000,Profitable,Debt,1000000,Equity,Expansion,0,Monthly,Detailed,Low,Active,Organic,0,Valuation,Costs,Fundraising,300000,Yes
+India,E-commerce,Expansion,10+,500+,0,25,50000,High Burn,Debt,1000000,Debt,Tech,0,Monthly,Basic,Low,Open,Acquisition,1,Regulation,Competition,Restructuring,5000,Maybe
+Both,Manufacturing,Idea,<1,11-50,0,50,50000,Break-even,Equity,200000,Mezzanine,Working Capital,0,Monthly,Basic,High,Open,Organic,1,Structuring,Scaling,Fundraising,5000,Yes
+India,E-commerce,Idea,10+,51-200,0,80,50000,High Burn,Debt,1000000,Convertible,Market Entry,0,Monthly,None,Medium,Active,Organic,0,Valuation,Competition,Matching,100000,Yes
+UAE,FinTech,Expansion,<1,51-200,15000000,80,50000,Break-even,Equity,50000,Convertible,Working Capital,0,Rare,Basic,Medium,No,Partnership,1,Pitch,Cashflow,Fundraising,100000,Yes
+UAE,Healthcare,Early,1-3,201-500,0,25,200000,Profitable,Both,5000000,Equity,Working Capital,1,Quarterly,Basic,High,Open,Organic,1,Structuring,Competition,Restructuring,5000,No
+Other,Healthcare,Growth,5-10,500+,15000000,10,700000,Profitable,Equity,5000000,Convertible,Working Capital,1,Quarterly,None,Medium,Open,Organic,0,Structuring,Hiring,M&A,300000,No
+UAE,SaaS,Idea,<1,1-10,5000000,80,200000,Profitable,Both,15000000,Equity,Expansion,1,Monthly,None,Low,No,Partnership,1,Structuring,Scaling,Valuation,300000,No
+Both,E-commerce,Mature,10+,500+,200000,50,700000,Break-even,Equity,50000,Convertible,Acquisition,1,Monthly,Detailed,Medium,No,Acquisition,0,Pitch,Competition,Fundraising,300000,Maybe
+India,FinTech,Mature,1-3,500+,200000,80,50000,Loss,Both,1000000,Debt,Expansion,1,Quarterly,None,Medium,Active,Fundraising,1,Access,Cashflow,Valuation,100000,No
+Other,SaaS,Expansion,<1,201-500,200000,50,10000,Break-even,Debt,5000000,Equity,Expansion,0,Rare,Detailed,Medium,No,Fundraising,1,Regulation,Scaling,Matching,20000,Maybe
